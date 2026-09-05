@@ -1,6 +1,5 @@
 # Aegis — UAV Failsafe State Machine Simulator
 
-*(Topic ID DRC-SFW-05, SAE Phoenix Aero)*
 
 Aegis is a C simulator and reference implementation of a five-state failsafe
 finite state machine (FSM) for a UAV flight controller. It exists to make one
